@@ -120,6 +120,13 @@ h5{
     font-size: 15px;
     font-family: cursive;
 }
+x:hover{
+    color: red;
+}
+.button{
+    width: 180px;
+    height: 40px;
+}
 .dol{
     width: 99%;
     height: 50px;
@@ -135,11 +142,4 @@ h6{
     top: -50%;
     left: 45%;
 
-}
-x:hover{
-    color: red;
-}
-.button{
-    width: 180px;
-    height: 40px;
 }
