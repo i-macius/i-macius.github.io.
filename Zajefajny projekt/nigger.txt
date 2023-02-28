@@ -1,0 +1,71 @@
+
+Air Jordan 1 Retro High OG Chicago Lost and Found
+2099 PLN – 2199 PLN
+Air Jordan 1 Retro High OG Patent Bred
+1549 PLN – 1799 PLN
+Air Jordan 1 High Stage Haze
+1899 PLN
+Supreme Kurt Cobain Tee White
+399 PLN
+Supreme Reaper Tee (SS23) White
+399 PLN
+Leeves Tennis Hoodie
+379 PLN
+Hills Wear Crystals Hoodie
+350 PLN
+Leeves x Dropsy Tennis Hoodie
+379 PLN
+Hills Wear Duo Frotte Hoodie
+360 PLN 290 PLN
+        <div class="Gora">
+            <img src="1.png" class="jordan">
+            <a class="n" href="strona.html" target="_self">Strona Główna</a>
+            <a class="n"><a href="stron2.html" target="_self" class="n">Buty</a></e> 
+            <c class="n">Ubrania</c>
+            <d class="n">Marka</d>
+            <img src="lupa.png" class="lupa">
+            <img src="koszyk.png" class="koszyk">
+        </div>
+.Gora{
+    height: 100px;
+
+}
+a:link {
+    color: black;
+    text-decoration: none;
+  }
+a{
+    text-transform: uppercase;
+    font-style: inherit;
+    font-size: 30px;
+}
+a:hover{
+    color: red;
+}
+.jordan{
+    width: 150px;
+    height: 95px;
+}
+.n{
+    position: absolute;
+    top:40px;
+    left: 13%;
+
+}
+e{
+    position: absolute;
+    top:0px;
+    left: 33%;
+}
+c{
+    position: absolute;
+    top:40px;
+    left: 42%;
+}
+d{
+    position: absolute;
+    top:40px;
+    left: 55%;
+}
+
+
