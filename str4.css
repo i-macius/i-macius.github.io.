@@ -55,13 +55,6 @@ a:hover{
     top:18px;
     left: 92%;
 }
-.dol{
-    width: 99%;
-    height: 90px;
-    position: absolute;
-    top: 90%;
-    background-color: red;
-}
 h1{
     font-size: 35px;
     font-family: cursive;
@@ -82,13 +75,20 @@ h5{
     font-size: 15px;
     font-family: cursive;
 }
+.dol{
+    width: 99%;
+    height: 50px;
+    position: absolute;
+    top: 94%;
+    background-color: red;
+}
 h6{
     color: white;
     font-family: cursive;
-    font-size: 29px;
+    font-size: 15px;
     position: absolute;
-    top: -55%;
-    left: 44%;
+    top: -50%;
+    left: 45%;
 
 }
 .shoess{
